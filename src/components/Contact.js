@@ -68,7 +68,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <p className="text-sm text-gray-500 font-medium">Resume</p>
-                                    <a href="/Manoj_Kumar_5Resume.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center text-light font-medium text-lg hover:text-primary transition-colors">
+                                    <a href="/portfolio/Manoj_Kumar_5Resume.pdf" target="_blank" rel="noopener noreferrer" className="flex items-center text-light font-medium text-lg hover:text-primary transition-colors">
                                         View / Download
                                     </a>
                                 </div>
