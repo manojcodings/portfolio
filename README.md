@@ -1,70 +1,175 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manoj%20Rajpoot&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Specialist&descAlignY=58&descSize=20" width="100%"/>
 
-## Available Scripts
+<br/>
 
-In the project directory, you can run:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=🚀+Building+the+Future%2C+One+Component+at+a+Time;⚡+React+%2B+Tailwind+%3D+Pure+Magic;🎯+Clean+Code+is+My+Superpower;💡+Turning+Ideas+Into+Reality;🌐+Open+To+Work+%26+Collaborations)](https://git.io/typing-svg)
 
-### `npm start`
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a href="https://manojcodings.github.io/portfolio">
+  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Click_To_Visit-A78BFA?style=for-the-badge&labelColor=0d0d0d&logoColor=white" height="35"/>
+</a>
+&nbsp;
+<a href="mailto:manojcodewith@gmail.com">
+  <img src="https://img.shields.io/badge/📧_HIRE_ME-manojcodewith@gmail.com-EA4335?style=for-the-badge&labelColor=0d0d0d" height="35"/>
+</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br/><br/>
 
-### `npm test`
+![Profile Views](https://komarev.com/ghpvc/?username=manojcodings&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/manojcodings?style=for-the-badge&logo=github&labelColor=0d0d0d&color=A78BFA)](https://github.com/manojcodings)
+[![GitHub stars](https://img.shields.io/github/stars/manojcodings?style=for-the-badge&logo=github&labelColor=0d0d0d&color=A78BFA)](https://github.com/manojcodings)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+</div>
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<div align="center">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 💬 *"I don't just write code — I craft experiences that leave an impression."*
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+</div>
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🧠 Who Am I?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```javascript
+const manoj = {
+  name:        "Manoj Rajpoot",
+  role:        "Full Stack Developer",
+  location:    "India 🇮🇳",
+  email:       "manojcodewith@gmail.com",
+  portfolio:   "manojcodings.github.io/portfolio",
+  passions:    ["Clean UI", "Problem Solving", "Open Source"],
+  currentFocus: "Building projects that matter",
+  funFact:     "I debug with console.log and I'm not ashamed 😄"
+};
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔥 This Portfolio Has
 
-## Learn More
+<div align="center">
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+| ✅ Feature | 💬 Details |
+|:---:|:---|
+| ⚡ **Blazing Fast** | Optimized React build with zero lag |
+| 📱 **Fully Responsive** | Looks stunning on every screen size |
+| 🎨 **Modern UI** | Glass morphism + smooth animations |
+| 🌙 **Clean Design** | Minimal, elegant, and distraction-free |
+| 📬 **Working Contact** | Real email & phone integration |
+| 📄 **Resume Ready** | Direct resume view & download |
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</div>
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🛠️ Tech Arsenal
 
-### Analyzing the Bundle Size
+<div align="center">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Frontend**
 
-### Making a Progressive Web App
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Tools & Platforms**
 
-### Advanced Configuration
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![NPM](https://img.shields.io/badge/NPM-0d0d0d?style=for-the-badge&logo=npm&logoColor=CB3837)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+</div>
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🗂️ Portfolio Sections
 
-### `npm run build` fails to minify
+<div align="center">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manojcodings&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojcodings&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=ffffff" width="41%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojcodings&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="60%"/>
+
+</div>
+
+---
+
+## 🚀 Run Locally
+
+```bash
+# 📥 Clone this repo
+git clone https://github.com/manojcodings/portfolio.git
+
+# 📂 Navigate to folder
+cd portfolio
+
+# 📦 Install all dependencies
+npm install
+
+# ▶️ Start the dev server
+npm start
+
+# 🌐 Open in browser
+# http://localhost:3000
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="mailto:manojcodewith@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20Me%20A%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="tel:+919211762900">
+  <img src="https://img.shields.io/badge/WhatsApp-+91%2092117%2062900-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d"/>
+</a>
+&nbsp;
+<a href="https://github.com/manojcodings">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/>
+</a>
+
+<br/><br/>
+
+### 💼 Open to Freelance, Internship & Full-time Opportunities!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+
+**🌟 If this portfolio impressed you, smash that ⭐ Star button! 🌟**
+
+<br/>
+
+*Built with ❤️, fueled by ☕, and powered by late nights 🌙*
+*by **Manoj Rajpoot** — Let's create something amazing together!*
+
+</div>
