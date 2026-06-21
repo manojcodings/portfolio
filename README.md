@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manoj%20Rajpoot&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Specialist&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manoj%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Specialist&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 ```javascript
 const manoj = {
-  name:        "Manoj Rajpoot",
+  name:        "Manoj Kumar",
   role:        "Full Stack Developer",
   location:    "India 🇮🇳",
   email:       "manojcodewith@gmail.com",
@@ -170,6 +170,6 @@ npm start
 <br/>
 
 *Built with ❤️, fueled by ☕, and powered by late nights 🌙*
-*by **Manoj Rajpoot** — Let's create something amazing together!*
+*by **Manoj Kumar** — Let's create something amazing together!*
 
 </div>
